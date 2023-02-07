@@ -48,7 +48,7 @@ impactful and scalable products
 - 👨‍💻 some of my projects are available at : [MdHumairRaza.com](https://mdhumairraza.github.io/)
 
 
-- 💬 Ask me about **Html, Css, JavaScript, Java, MySQL, SpringBoot**
+- 💬 Ask me about **Java, JavaScript, Java, MySQL, SpringBoot, Hibernate**
 
 - 📫 How to reach me **mdhumairraza@yahoo.com**
 
