@@ -34,7 +34,6 @@ practical experience in coding, and building numerous
 websites and applications. Solved more than 700 data
 structure and algorithm questions. Strongly interested
 in obtaining a backend developer position to create
- 
 impactful and scalable products
 </h3>
 
