@@ -37,15 +37,30 @@ in obtaining a backend developer position to create
  
 impactful and scalable products
 </h3>
-- 👨‍💻 My Portfolio - <a href="https://mdhumairraza.github.io/" style="color:blue; textDecoration:none;" target="_blank"><i>Md Humair Raza</i></a>
 
-- 🌱 I’m currently learning *Data Structures and Algorithms.*
+ <img align="right" src="https://camo.githubusercontent.com/ffbf71edb9eb65671926a8cc42a5a740bf5b799a9b93699a3a0de76e1793a80b/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f54456e586b637348725034596564436868412f67697068792e676966" width = "30%"/>
 
-- 📫 How to reach me *mdhumairraza@yahoo.com*
+<br /> 
+<br />
 
+- 🌱 I’m currently learning **Full Stack Development**
+
+
+- 👨‍💻 some of my projects are available at : [MdHumairRaza.com](https://mdhumairraza.github.io/)
+
+
+- 💬 Ask me about **Html, Css, JavaScript, Java, MySQL, SpringBoot**
+
+- 📫 How to reach me **mdhumairraza@yahoo.com**
+
+- 📄 Know about my experiences
+
+- 📄  My Resume :   [Md_Humair_Raza_Resume](https://drive.google.com/file/d/1ptjAIsk7d0Su-wJimx7ttRnJQ0yEJtfC/view?usp=share_link)
+<br /> <br />
+<br /> <br />
+
+ 
 <br/>
-
-<!-- <img src="https://media2.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif" alt="CAT"/> -->
 
 <br/>
 
@@ -112,23 +127,17 @@ impactful and scalable products
 <br/>
 
 <p align="center">      
-  <a href="https://github.com/mdhumairraza/github-readme-stats"><img alt="Md Humair Raza's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdhumairraza&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/mdhumairraza/github-readme-stats"><img alt="Md Humair Raza's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdhumairraza&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=060A0CD0" /></a>
 </p>  
       
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mdhumairraza&show_icons=true&hide_border=true&theme=react&hide_border=true&bg_color=0D1117" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mdhumairraza&show_icons=true&hide_border=true&theme=react&bg_color=060A0CD0" />
  </p>
  
  <p align="center">
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mdhumairraza&hide_border=true&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" />
 </p>
 
-
-<!-- 
-<br />
-<img src="https://activity-graph.herokuapp.com/graph?username=mdhumairraza&theme=radical" alt="activitygraph" />
-<br />
- -->
 
 
 
@@ -175,9 +184,9 @@ impactful and scalable products
 </p>
 <!-- <hr> -->
 
-<!-- <br />
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=mdhumairraza&theme=radical" alt=""/> </p>
-<p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdhumairraza&theme=radical" alt="summarycard"/> </p> -->
+<br />
+<!-- <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=mdhumairraza&theme=react" alt=""/> </p> -->
+<p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdhumairraza&theme=github_dark" alt="summarycard"/> </p>
 <!-- <br> -->
 <!-- <br> -->
 <br>
@@ -187,7 +196,6 @@ impactful and scalable products
 </h3>
 <h3 align="center"> 
   Visitor count <br>
-  <!-- <img src="https://profile-counter.glitch.me/4shutoshbhardwaj/count.svg" /> -->
   <img src="https://profile-counter.glitch.me/mdhumairraza/count.svg" />
 </h3>
 
@@ -199,6 +207,6 @@ impactful and scalable products
 
 
 <h4 align="center">
-  <a href="https://github.com/a11yus?tab=repositories" title="Show Repositories">Show More</a>
+  <a href="https://github.com/mdhumairraza?tab=repositories" title="Show Repositories">Show More</a>
 </h4> 
  
