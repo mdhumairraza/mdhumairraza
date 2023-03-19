@@ -99,9 +99,15 @@ impactful and scalable products
   <a href="https://www.linkedin.com/in/mdhumairraza/">
         <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="" />
     </a>
- <a href="https://www.hackerrank.com/mdhumairraza_?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mdhumairraza_" height="30" width="40" /></a>
-<a href="https://leetcode.com/mdhumairraza/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mdhumairraza" height="30" width="40" /></a>
-    <a href="https://mdhumairraza.github.io/">
+ <a href="https://www.hackerrank.com/mdhumairraza_?hr_r=1" target="blank">
+ <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mdhumairraza_" height="30" width="40" />
+ </a>
+
+ <a href="https://leetcode.com/mdhumairraza/" target="blank">
+ <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mdhumairraza" height="30" width="40" />
+ </a>
+    
+ <a href="https://mdhumairraza.github.io/">
         <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://mdhumairraza.github.io/" />
     </a>
     <a title="mdhumairraza@yahoo.com" href="mailto:mdhumairraza@yahoo.com">
@@ -120,7 +126,9 @@ impactful and scalable products
 <br/>
 
 <p align="center">      
-  <a href="https://github.com/mdhumairraza/github-readme-stats"><img alt="Md Humair Raza's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdhumairraza&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=060A0CD0" /></a>
+<!--   <a href="https://github.com/mdhumairraza/github-readme-stats"> -->
+   <img alt="Md Humair Raza's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdhumairraza&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=060A0CD0" />
+<!--  </a> -->
 </p>  
       
 <p align="center">
