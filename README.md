@@ -1,7 +1,7 @@
 <!-- ### Hi there 👋 -->
 
 <!--
-**mdhumairraza/mdhumairraza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**mdhumairraza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -50,7 +50,7 @@ impactful and scalable products
 
 - 💬 Ask me about **Java, JavaScript, Java, MySQL, SpringBoot, Hibernate**
 
-<!-- - 📫 How to reach me **mdhumairraza@yahoo.com** -->
+- 📫 How to reach me **mdhumairraza@yahoo.com**
 
 - 📄 Know about my experiences
 
