@@ -104,9 +104,9 @@ impactful and scalable products
     <a href="https://mdhumairraza.github.io/">
         <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://mdhumairraza.github.io/" />
     </a>
-<!--     <a title="mdhumairraza@yahoo.com" href="mailto:mdhumairraza@yahoo.com">
+    <a title="mdhumairraza@yahoo.com" href="mailto:mdhumairraza@yahoo.com">
         <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mdhumairraza@yahoo.com" />
-    </a> -->
+    </a>
  
 </p>
 
