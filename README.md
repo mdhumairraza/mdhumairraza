@@ -50,7 +50,7 @@ impactful and scalable products
 
 - 💬 Ask me about **Java, JavaScript, Java, MySQL, SpringBoot, Hibernate**
 
-- 📫 How to reach me **mdhumairraza@yahoo.com**
+<!-- - 📫 How to reach me **mdhumairraza@yahoo.com** -->
 
 - 📄 Know about my experiences
 
