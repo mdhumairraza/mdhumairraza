@@ -64,6 +64,8 @@ impactful and scalable products
 <br>
 <!----------------------------------- Tech Stack Section ------------------------------------>
 
+ <!-- 
+
 ### <h2 style="margin-top:100px ;"><i>👨🏻‍💻 Tech Stack & Languages</i></h2>
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -86,8 +88,93 @@ impactful and scalable products
 ### <h2><i>💻 Databases</i></h2>
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
+  -->
  
- 
+ 	
+<br>
+
+## <h3 align="left"><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 24px> Languages and Tools:</h3>
+
+   
+   
+   
+<table align="center">
+<tr>
+<td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="Java" />
+      <br>Java
+    </td>
+    <td align="center" width="96">
+        <img src="https://pngimg.com/uploads/mysql/mysql_PNG18.png" width="48" height="48" alt="Vuejs" />
+      <br>My SQl
+    </td>		
+    <td align="center" width="96">
+        <img src="https://1.bp.blogspot.com/-0dyq949GG7k/W8Zve_53ADI/AAAAAAAABlk/a0SZ78EvdJYyBjpOSra_7ZgmNMJIvVDJQCLcBGAs/s320/jdbc-with-MySQL-DataBase-New%2BSystem%2BTechnology.png" width="48" height="48" alt="Vuejs" />
+      <br>JDBC							
+</td>	
+<td align="center" width="96">
+        <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="48" height="48" alt="Html5" />
+      <br>Spring Boot
+    </td>
+      <td align="center" width="96">
+        <img src="https://grok.lsu.edu/image/45934.png" width="48" height="48" alt="ubuntu" />
+    <br>IntelliJ IDEA
+    </td>
+</tr>
+<tr>
+    <td align="center" width="96">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="javascript" />
+      <br>JavaScript
+    </td>
+ <td align="center" width="96">
+        <img src="https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png" width="45" height="45" alt="HTML" />
+      <br>HTML
+    </td>
+   <td align="center" width="96">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/48px-CSS3_logo.svg.png" width="48" height="48" alt="CSS" />
+      <br>CSS
+    </td>  
+    <td align="center" width="96">
+        <img src="https://user-images.githubusercontent.com/43886029/158700377-62b0da69-81a2-4340-8ce6-dec718533aee.svg" width="48" height="48" alt="Vuejs" />
+      <br>Maven
+    </td> 
+   <td align="center"  width="96">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="48" height="48" alt="Jamstack" />
+      <br>VS Code
+    </td>
+</tr>
+<tr>
+    <td align="center" width="96">
+        <img src="https://img.icons8.com/fluent/48/4a90e2/github.png" width="48" height="48" alt="Css3" />
+      <br>GitHub
+    </td>
+      </td>
+      <td align="center" width="96">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+      <td align="center" width="96">
+    <img src="https://th.bing.com/th?id=ODLS.41693c73-eb43-452e-ac7c-05ee1420be2e&w=32&h=32&o=6&pid=13.1" width="48" height="48" alt="javascript" />
+      <br>Netlify
+    </td>
+     <td align="center" width="96">
+         <img src="https://th.bing.com/th/id/OIP.5HGqUBZG3X_n2BuTtu2n5QAAAA?w=150&h=150&c=7&r=0&o=5&dpr=1.4&pid=1.7" width="48" height="48" alt="Replit" />
+      <br>Replit
+    </td>      
+    <td align="center" width="96">
+        <img src="https://seeklogo.com/images/U/ubuntu-logo-8FDEC6A07B-seeklogo.com.png" width="48" height="48" alt="ubuntu" />
+      <br>Ubuntu
+      </td>
+</tr>
+  
+</table>
+
+
+
+
+
+<br>
+
  
 <!----------------------------------- Social Media Links Section ------------------------------------>
 
