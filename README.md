@@ -265,9 +265,21 @@ impactful and scalable products
 
 <br/><br/><br/><br/><br/><br/><br/><br/>
 
+<h2 align="center">My Projects</h2>
 
+<!-- 
 
+Project Demo    |My Repo          |Libraries and Technologies I use      |Project Preview   
+:---------------|----------------------|--------------------|------------------
+[Hospital](https://doctors-proje.netlify.app/) | <h3>[Repo](https://github.com/yusufbali13/appoinment-project)</h3> | React Bootstrap |![todo](https://user-images.githubusercontent.com/118989504/221845611-5e6c6b96-bb5d-462c-98c3-e6850e6499d5.gif)
+[Horoscope](https://yusufbali13.github.io/Horoscope/) | <h3>[Repo](https://github.com/yusufbali13/Horoscope)</h3>|React SASS/SCSS|![screen-recording-_5_](https://user-images.githubusercontent.com/118989504/221920939-6426bd73-202c-45c5-a408-d4feeebbb484.gif)
+[basic-react-router-page](https://basic-react-router-page.netlify.app/) | <h3>[Repo](https://github.com/yusufbali13/basic-react-router-page)</h3>|React bootstrap|![sass](https://user-images.githubusercontent.com/97898216/171563765-11e2fc18-5e61-4274-be8a-0c38a064d0d9.gif)
+[checkout project](https://yusufbali13.github.io/Checkout/) | <h3>[Repo](https://github.com/yusufbali13/Checkout)</h3>|JS DOM|![checkout](https://user-images.githubusercontent.com/97898216/171990110-d6e5da76-6628-488e-8332-4074c4bae5d5.gif)
+[React SASS ](https://react-sass-projects.netlify.app/) | <h3>[Repo](https://github.com/yusufbali13/react-sass)</h3>| HTML5, SASS|![sass](https://user-images.githubusercontent.com/118957608/221443026-51e47633-23a6-4c56-8dd7-cb9590b2a217.gif)
 
+<br>
+
+ -->
 
 </p>
 <!-- <hr> -->
