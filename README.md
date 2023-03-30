@@ -265,9 +265,10 @@ impactful and scalable products
 
 <br/><br/><br/><br/><br/><br/><br/><br/>
 
-<h2 align="center">My Projects</h2>
-
 <!-- 
+
+
+<h2 align="center">My Projects</h2>
 
 Project Demo    |My Repo          |Libraries and Technologies I use      |Project Preview   
 :---------------|----------------------|--------------------|------------------
