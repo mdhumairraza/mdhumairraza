@@ -267,20 +267,19 @@ impactful and scalable products
 
 
 
-<!-- 
+
 <h2 align="center">My Projects</h2>
 
-Project Links    |My Repo          |Libraries and Technologies I use      |Project Preview   
+Project Links    |My Repo Links          |Libraries and Technologies I use      |Project Preview   
 :---------------|----------------------|--------------------|------------------
-[Online Shopping Application](/) | <h3>[Repo](https://github.com/Im-vishalanand/adhesive-cactus-7535)</h3> | Java Mysql Spring-boot Maven Lombok Hibernate Swagger Datajpa |![OSA](https://img.freepik.com/premium-vector/software-update-loading-process-upgrade-concept-vector-illustration-flat-style-upgrade-update-refresh-loading-process-concept-upgrade-application-progress-icon-graphic-web-design_435184-403.jpg)
-[Human Resource Management System](https://drive.google.com/file/d/1CpmLX_mqh_4Z88M3Tddp_l5ayqL4S-BO/view/)|<h3>[Repo](https://github.com/mdhumairraza/radioactive-muscle-5983-)</h3>|Java JDBC MySQL STS Git & GitHub |![HRMS](https://img.freepik.com/premium-vector/software-update-loading-process-upgrade-concept-vector-illustration-flat-style-upgrade-update-refresh-loading-process-concept-upgrade-application-progress-icon-graphic-web-design_435184-403.jpg)
-[BestBuy](https://legendary-fairy-bc0edb.netlify.app/) | <h3>[Repo](https://github.com/SumitUjjwal/obnoxious-ladybug-6279)</h3>|HTML CSS JavaScript RestAPI Postman JSON GIT|![BestBuy](https://img.freepik.com/premium-vector/software-update-loading-process-upgrade-concept-vector-illustration-flat-style-upgrade-update-refresh-loading-process-concept-upgrade-application-progress-icon-graphic-web-design_435184-403.jpg)
+[Online Shopping Application](https://drive.google.com/file/d/1tFymWdto2vsigvvaFqqkjO9oBS_FhNTL/view) | <h3>[Repo (Collaborative)](https://github.com/Im-vishalanand/adhesive-cactus-7535)</h3> | Java Mysql Spring-boot Maven Lombok Hibernate Swagger Datajpa |![OSA](https://mdhumairraza.github.io/images/onlineShoppingApplication.png)
+[Human Resource Management System](https://drive.google.com/file/d/1CpmLX_mqh_4Z88M3Tddp_l5ayqL4S-BO/view/)|<h3>[Repo (Solo)](https://github.com/mdhumairraza/radioactive-muscle-5983-)</h3>|Java JDBC MySQL STS Git & GitHub |![HRMS](https://mdhumairraza.github.io/images/hrms.png)
+[BestBuy](https://legendary-fairy-bc0edb.netlify.app/) | <h3>[Repo (Collaborative)](https://github.com/SumitUjjwal/obnoxious-ladybug-6279)</h3>|HTML CSS JavaScript RestAPI Postman JSON GIT|![BestBuy](https://mdhumairraza.github.io/images/bestbuy.png)
 <!-- [checkout project](https://yusufbali13.github.io/Checkout/) | <h3>[Repo](https://github.com/yusufbali13/Checkout)</h3>|JS DOM|![checkout](https://user-images.githubusercontent.com/97898216/171990110-d6e5da76-6628-488e-8332-4074c4bae5d5.gif)
 [React SASS ](https://react-sass-projects.netlify.app/) | <h3>[Repo](https://github.com/yusufbali13/react-sass)</h3>| HTML5, SASS|![sass](https://user-images.githubusercontent.com/118957608/221443026-51e47633-23a6-4c56-8dd7-cb9590b2a217.gif) -->
 
 <br>
 
- -->
 
 </p>
 <!-- <hr> -->
