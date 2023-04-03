@@ -267,7 +267,7 @@ impactful and scalable products
 
 
 
-
+<!-- 
 <h2 align="center">My Projects</h2>
 
 Project Links    |My Repo          |Libraries and Technologies I use      |Project Preview   
@@ -280,7 +280,7 @@ Project Links    |My Repo          |Libraries and Technologies I use      |Proje
 
 <br>
 
-
+ -->
 
 </p>
 <!-- <hr> -->
