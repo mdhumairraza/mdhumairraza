@@ -186,7 +186,7 @@ impactful and scalable products
   <a href="https://www.linkedin.com/in/mdhumairraza/">
         <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="" />
     </a>
- <a href="https://www.hackerrank.com/mdhumairraza" target="blank">
+ <a href="https://www.hackerrank.com/mdhumairraza?hr_r=1" target="blank">
  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mdhumairraza_" height="30" width="40" />
  </a>
 
