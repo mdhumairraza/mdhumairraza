@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi there! <span color="blue">I'm Md Humair Raza</span> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
  <br>
 
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=22&pause=1000&color=3CF700&center=true&width=1000&lines=Java+Developer;+%F0%9F%8C%8F+Curious+to+learn+things+)]
+ ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=22&pause=1000&color=3CF700&center=true&width=1000&lines=Java+Developer;+%F0%9F%8C%8F+Curious+to+learn+things+)
   <br>
  <p align="center" ><img  style="width: 200px;" src="https://media3.giphy.com/media/67pT4cqBcomeCbnDuB/source.gif"/></p>
    
