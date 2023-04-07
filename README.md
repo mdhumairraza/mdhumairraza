@@ -257,8 +257,8 @@ impactful and scalable products
   <img align="left" width="40%"  src="https://github-readme-stats.vercel.app/api/pin/?username=SumitUjjwal&repo=obnoxious-ladybug-6279&theme=react&border_color=61dafb&border_radius=10">
   </a>
  
-  <a align="right" href="https://github.com/mdhumairraza/mdhumairraza.github.io" title="my_portfolio">
-  <img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=mdhumairraza&repo=mdhumairraza.github.io&theme=react&border_color=61dafb&border_radius=10">
+  <a align="right" href="https://github.com/mdhumairraza/kindhearted-relation-7296" title="Urban Company">
+  <img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=mdhumairraza&repo=kindhearted-relation-7296&theme=react&border_color=61dafb&border_radius=10">
   </a>
   
 </div>
