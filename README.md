@@ -190,9 +190,9 @@ impactful and scalable products
  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mdhumairraza_" height="30" width="40" />
  </a> -->
 
- <a href="https://leetcode.com/mdhumairraza/" target="blank">
+<!--  <a href="https://leetcode.com/mdhumairraza/" target="blank">
  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mdhumairraza" height="30" width="40" />
- </a>
+ </a> -->
     
  <a href="https://mdhumairraza.github.io/">
         <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://mdhumairraza.github.io/" />
