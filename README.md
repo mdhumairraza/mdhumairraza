@@ -242,7 +242,7 @@ impactful and scalable products
   <img align="left" width="40%"  src="https://github-readme-stats.vercel.app/api/pin/?username=Im-vishalanand&repo=adhesive-cactus-7535&theme=react&border_color=61dafb&border_radius=10">
   </a>
   
-  <a align="right" href="https://github.com/mdhumairraza/radioactive-muscle-5983-" title="Human Resource management system">
+  <a align="right" href="https://github.com/mdhumairraza/Human-Resource-Management-Application" title="Human Resource management system">
   <img align="right" width="40%"  src="https://github-readme-stats.vercel.app/api/pin/?username=mdhumairraza&repo=radioactive-muscle-5983-&theme=react&border_color=61dafb&border_radius=10">
   </a>
   
