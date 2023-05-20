@@ -283,7 +283,7 @@ Project Links    |My Repo Links          |Libraries and Technologies I use      
 <!-- <hr> -->
 
 <br />
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=mdhumairraza&theme=react" alt=""/> </p>
+<!-- <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=mdhumairraza&theme=react" alt=""/> </p> -->
 <!-- <p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdhumairraza&theme=github_dark" alt="summarycard"/> </p> -->
 <!-- <br> -->
 <!-- <br> -->
