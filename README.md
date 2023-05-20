@@ -238,8 +238,8 @@ impactful and scalable products
 
 <div width="100%" align="center">
 
- <a align="left" href="https://github.com/Im-vishalanand/adhesive-cactus-7535" title="Online-Shopping-Application">
-  <img align="left" width="40%"  src="https://github-readme-stats.vercel.app/api/pin/?username=Im-vishalanand&repo=adhesive-cactus-7535&theme=react&border_color=61dafb&border_radius=10">
+ <a align="left" href="https://github.com/mdhumairraza/Online-Shopping-Application" title="Online-Shopping-Application">
+  <img align="left" width="40%"  src="https://github-readme-stats.vercel.app/api/pin/?username=mdhumairraza&repo=Online-Shopping-Application&theme=react&border_color=61dafb&border_radius=10">
   </a>
   
   <a align="right" href="https://github.com/mdhumairraza/Human-Resource-Management-Application" title="Human-Resource-Management-Application"><img align="right" width="40%"  src="https://github-readme-stats.vercel.app/api/pin/?username=mdhumairraza&repo=Human-Resource-Management-Application&theme=react&border_color=61dafb&border_radius=10">
@@ -271,7 +271,7 @@ impactful and scalable products
 
 Project Links    |My Repo Links          |Libraries and Technologies I use      |Project Preview   
 :---------------|----------------------|--------------------|------------------
-[Online Shopping Application](https://drive.google.com/file/d/1tFymWdto2vsigvvaFqqkjO9oBS_FhNTL/view) | <h3>[Repo (Collaborative)](https://github.com/Im-vishalanand/adhesive-cactus-7535)</h3> | Java Mysql Spring-boot Maven Lombok Hibernate Swagger Datajpa |![OSA](https://mdhumairraza.github.io/images/onlineShoppingApplication.png)
+[Online Shopping Application](https://drive.google.com/file/d/1tFymWdto2vsigvvaFqqkjO9oBS_FhNTL/view) | <h3>[Repo (Collaborative)](https://github.com/mdhumairraza/Online-Shopping-Application)</h3> | Java Mysql Spring-boot Maven Lombok Hibernate Swagger Datajpa |![OSA](https://mdhumairraza.github.io/images/onlineShoppingApplication.png)
 [Human Resource Management System](https://drive.google.com/file/d/1CpmLX_mqh_4Z88M3Tddp_l5ayqL4S-BO/view)|<h3>[Repo (Solo)](https://github.com/mdhumairraza/Human-Resource-Management-Application)</h3>|Java JDBC MySQL STS Git & GitHub |![HRMS](https://mdhumairraza.github.io/images/hrms.png)
 [BestBuy](https://legendary-fairy-bc0edb.netlify.app/) | <h3>[Repo (Collaborative)](https://github.com/SumitUjjwal/obnoxious-ladybug-6279)</h3>|HTML CSS JavaScript RestAPI Postman JSON GIT|![BestBuy](https://mdhumairraza.github.io/images/bestbuy.png)
 [Urban Company](https://stately-duckanoo-80aef4.netlify.app/) | <h3>[Repo (Solo)](https://github.com/mdhumairraza/Urban-Company)</h3>|HTML CSS JavaScript DOM Git|![checkout](https://mdhumairraza.github.io/images/urbanCompany.png)
