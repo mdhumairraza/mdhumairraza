@@ -243,7 +243,8 @@ impactful and scalable products
   </a>
   
   <a align="right" href="https://github.com/mdhumairraza/Human-Resource-Management-Application" title="Human Resource management system">
-  <img align="right" width="40%"  src="https://github-readme-stats.vercel.app/api/pin/?username=mdhumairraza&repo=radioactive-muscle-5983-&theme=react&border_color=61dafb&border_radius=10">
+  <img align="right" width="40%"  src="https://github-readme-stats.vercel.app/api/pin/?username=mdhumairraza&repo=
+Human-Resource-Management-Application&theme=react&border_color=61dafb&border_radius=10">
   </a>
   
 </div>
