@@ -273,7 +273,7 @@ impactful and scalable products
 Project Links    |My Repo Links          |Libraries and Technologies I use      |Project Preview   
 :---------------|----------------------|--------------------|------------------
 [Online Shopping Application](https://drive.google.com/file/d/1tFymWdto2vsigvvaFqqkjO9oBS_FhNTL/view) | <h3>[Repo (Collaborative)](https://github.com/Im-vishalanand/adhesive-cactus-7535)</h3> | Java Mysql Spring-boot Maven Lombok Hibernate Swagger Datajpa |![OSA](https://mdhumairraza.github.io/images/onlineShoppingApplication.png)
-[Human Resource Management System](https://drive.google.com/file/d/1CpmLX_mqh_4Z88M3Tddp_l5ayqL4S-BO/view)|<h3>[Repo (Solo)](https://github.com/mdhumairraza/radioactive-muscle-5983-)</h3>|Java JDBC MySQL STS Git & GitHub |![HRMS](https://mdhumairraza.github.io/images/hrms.png)
+[Human Resource Management System](https://drive.google.com/file/d/1CpmLX_mqh_4Z88M3Tddp_l5ayqL4S-BO/view)|<h3>[Repo (Solo)](https://github.com/mdhumairraza/Human-Resource-Management-Application)</h3>|Java JDBC MySQL STS Git & GitHub |![HRMS](https://mdhumairraza.github.io/images/hrms.png)
 [BestBuy](https://legendary-fairy-bc0edb.netlify.app/) | <h3>[Repo (Collaborative)](https://github.com/SumitUjjwal/obnoxious-ladybug-6279)</h3>|HTML CSS JavaScript RestAPI Postman JSON GIT|![BestBuy](https://mdhumairraza.github.io/images/bestbuy.png)
 [Urban Company](https://stately-duckanoo-80aef4.netlify.app/) | <h3>[Repo (Solo)](https://github.com/mdhumairraza/kindhearted-relation-7296)</h3>|HTML CSS JavaScript DOM Git|![checkout](https://mdhumairraza.github.io/images/urbanCompany.png)
 
