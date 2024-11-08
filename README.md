@@ -27,7 +27,7 @@ Here are some ideas to get you started:
  <p align="center" ><img  style="width: 200px;" src="https://media3.giphy.com/media/67pT4cqBcomeCbnDuB/source.gif"/></p>
    
  <h1 align="center" style=" align-items: center; border-radius: 50%; width: 100%">  About Me </h1> 
-
+<!--
 <h3 align="center">
 Ambitious Java Backend Developer enthusiastic to
 learn and explore new technologies. 1200+ hours of
@@ -36,6 +36,10 @@ websites and applications. Solved more than 700 data
 structure and algorithm questions. Strongly interested
 in obtaining a backend developer position to create
 impactful and scalable products
+</h3>
+-->
+<h3 align="center">
+ Highly skilled and results-driven Software Development Engineer with over 3 years of experience in designing, developing, and maintaining robust enterprise-level applications. Proficient in both backend and frontend technologies, including Java, Spring Boot, Angular. Proven track record of delivering scalable and responsive solutions that meet client requirements and exceed expectations. Strong communicator and team player, adept at collaborating with cross-functional teams and effectively engaging with clients to drive project success. With a passion for innovation and a commitment to delivering high-quality software. 
 </h3>
 
  <img align="right" src="https://camo.githubusercontent.com/ffbf71edb9eb65671926a8cc42a5a740bf5b799a9b93699a3a0de76e1793a80b/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f54456e586b637348725034596564436868412f67697068792e676966" width = "30%"/>
@@ -55,7 +59,7 @@ impactful and scalable products
 
 <!--  - 📄 Know about my experiences
 
-- 📄  My Resume :   [Md_Humair_Raza_Resume](https://drive.google.com/file/d/1ptjAIsk7d0Su-wJimx7ttRnJQ0yEJtfC/view?usp=share_link)
+- 📄  My Resume :   [Md_Humair_Raza_Resume]()
 <br /> <br /> -->
 <!-- <br /> <br /> -->
 
