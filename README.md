@@ -46,17 +46,17 @@ impactful and scalable products
 - 🌱 I’m currently learning **Full Stack Development**
 
 
-- 👨‍💻 some of my projects are available at : [MdHumairRaza.com](https://mdhumairraza.github.io/)
+<!-- - 👨‍💻 some of my projects are available at : [MdHumairRaza.com](https://mdhumairraza.github.io/) -->
 
 
 - 💬 Ask me about **Java, JavaScript, Java, MySQL, SpringBoot, Hibernate**
 
-- 📫 How to reach me **mdhumairraza@yahoo.com**
+- 📫 How to reach me **mdhumairraza@gmail.com**
 
-- 📄 Know about my experiences
+<!--  - 📄 Know about my experiences
 
 - 📄  My Resume :   [Md_Humair_Raza_Resume](https://drive.google.com/file/d/1ptjAIsk7d0Su-wJimx7ttRnJQ0yEJtfC/view?usp=share_link)
-<br /> <br />
+<br /> <br /> -->
 <!-- <br /> <br /> -->
 
 ### <h2 style="margin-top:100px ;"><i></i></h2>
@@ -179,33 +179,37 @@ impactful and scalable products
  
 <!----------------------------------- Social Media Links Section ------------------------------------>
 
-<h2><i>Let's Connect</i></h2>
-
-
-<p align="left">
- 
-  <a href="https://www.linkedin.com/in/mdhumairraza/">
-        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="" />
-    </a>
-<!--  <a href="https://www.hackerrank.com/mdhumairraza?hr_r=1" target="blank">
- <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mdhumairraza_" height="30" width="40" />
- </a> -->
-
-<!--  <a href="https://leetcode.com/mdhumairraza/" target="blank">
- <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mdhumairraza" height="30" width="40" />
- </a> -->
+<!-- 
+    <h2><i>Let's Connect</i></h2>
     
- <a href="https://mdhumairraza.github.io/">
-        <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://mdhumairraza.github.io/" />
-    </a>
-    <a title="mdhumairraza@yahoo.com" href="mailto:mdhumairraza@yahoo.com">
-        <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mdhumairraza@yahoo.com" />
-    </a>
- 
-</p>
+    
+    <p align="left">
+     
+      <a href="https://www.linkedin.com/in/mdhumairraza/">
+            <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="" />
+        </a>
+    <a href="https://www.hackerrank.com/mdhumairraza?hr_r=1" target="blank">
+     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mdhumairraza_" height="30" width="40" />
+     </a>
+    
+    <a href="https://leetcode.com/mdhumairraza/" target="blank">
+     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mdhumairraza" height="30" width="40" />
+     </a>
+        
+     <a href="https://mdhumairraza.github.io/">
+            <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://mdhumairraza.github.io/" />
+        </a>
+        <a title="mdhumairraza@yahoo.com" href="mailto:mdhumairraza@yahoo.com">
+            <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mdhumairraza@yahoo.com" />
+        </a>
+     
+    </p>
+    
+    <br>
+    </a> </p>
 
-<br>
-</a> </p>
+
+-->
 
 
 
@@ -232,55 +236,60 @@ impactful and scalable products
 
 
 
+ <!-- 
+        <h3 align="left">👨‍💻 Top Repositories</h3>
+        
+        <br>
+        
+        <div width="100%" align="center">
+        
+         <a align="left" href="https://github.com/mdhumairraza/Online-Shopping-Application" title="Online-Shopping-Application">
+          <img align="left" width="40%"  src="https://github-readme-stats.vercel.app/api/pin/?username=mdhumairraza&repo=Online-Shopping-Application&theme=react&border_color=61dafb&border_radius=10">
+          </a>
+          
+          <a align="right" href="https://github.com/mdhumairraza/Human-Resource-Management-Application" title="Human-Resource-Management-Application"><img align="right" width="40%"  src="https://github-readme-stats.vercel.app/api/pin/?username=mdhumairraza&repo=Human-Resource-Management-Application&theme=react&border_color=61dafb&border_radius=10">
+          </a>
+          
+        </div>
+        
+        <br/><br/><br/><br/><br/><br/><br/>
+        
+        
+        <div width="100%" align="center">
+        
+          <a align="left" href="https://github.com/SumitUjjwal/obnoxious-ladybug-6279" title="BestBuy">
+          <img align="left" width="40%"  src="https://github-readme-stats.vercel.app/api/pin/?username=SumitUjjwal&repo=obnoxious-ladybug-6279&theme=react&border_color=61dafb&border_radius=10">
+          </a>
+         
+          <a align="right" href="https://github.com/mdhumairraza/kindhearted-relation-7296" title="Urban Company">
+          <img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=mdhumairraza&repo=Urban-Company&theme=react&border_color=61dafb&border_radius=10">
+          </a>
+          
+        </div>
+        
+        <br/><br/><br/><br/><br/><br/><br/><br/>
+        
+        
+        
+        
+        <h2 align="center">My Projects</h2>
+        
+        Project Links    |My Repo Links          |Libraries and Technologies I use      |Project Preview   
+        :---------------|----------------------|--------------------|------------------
+        [Online Shopping Application](https://drive.google.com/file/d/1tFymWdto2vsigvvaFqqkjO9oBS_FhNTL/view) | <h3>[Repo (Collaborative)](https://github.com/mdhumairraza/Online-Shopping-Application)</h3> | Java Mysql Spring-boot Maven Lombok Hibernate Swagger Datajpa |![OSA](https://mdhumairraza.github.io/images/onlineShoppingApplication.png)
+        [Human Resource Management System](https://drive.google.com/file/d/1CpmLX_mqh_4Z88M3Tddp_l5ayqL4S-BO/view)|<h3>[Repo (Solo)](https://github.com/mdhumairraza/Human-Resource-Management-Application)</h3>|Java JDBC MySQL STS Git & GitHub |![HRMS](https://mdhumairraza.github.io/images/hrms.png)
+        [BestBuy](https://legendary-fairy-bc0edb.netlify.app/) | <h3>[Repo (Collaborative)](https://github.com/SumitUjjwal/obnoxious-ladybug-6279)</h3>|HTML CSS JavaScript RestAPI Postman JSON GIT|![BestBuy](https://mdhumairraza.github.io/images/bestbuy.png)
+        [Urban Company](https://stately-duckanoo-80aef4.netlify.app/) | <h3>[Repo (Solo)](https://github.com/mdhumairraza/Urban-Company)</h3>|HTML CSS JavaScript DOM Git|![checkout](https://mdhumairraza.github.io/images/urbanCompany.png)
+        
+        <br>
+        
+        
+        </p>
 
-<h3 align="left">👨‍💻 Top Repositories</h3>
 
-<br>
-
-<div width="100%" align="center">
-
- <a align="left" href="https://github.com/mdhumairraza/Online-Shopping-Application" title="Online-Shopping-Application">
-  <img align="left" width="40%"  src="https://github-readme-stats.vercel.app/api/pin/?username=mdhumairraza&repo=Online-Shopping-Application&theme=react&border_color=61dafb&border_radius=10">
-  </a>
-  
-  <a align="right" href="https://github.com/mdhumairraza/Human-Resource-Management-Application" title="Human-Resource-Management-Application"><img align="right" width="40%"  src="https://github-readme-stats.vercel.app/api/pin/?username=mdhumairraza&repo=Human-Resource-Management-Application&theme=react&border_color=61dafb&border_radius=10">
-  </a>
-  
-</div>
-
-<br/><br/><br/><br/><br/><br/><br/>
+-->
 
 
-<div width="100%" align="center">
-
-  <a align="left" href="https://github.com/SumitUjjwal/obnoxious-ladybug-6279" title="BestBuy">
-  <img align="left" width="40%"  src="https://github-readme-stats.vercel.app/api/pin/?username=SumitUjjwal&repo=obnoxious-ladybug-6279&theme=react&border_color=61dafb&border_radius=10">
-  </a>
- 
-  <a align="right" href="https://github.com/mdhumairraza/kindhearted-relation-7296" title="Urban Company">
-  <img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=mdhumairraza&repo=Urban-Company&theme=react&border_color=61dafb&border_radius=10">
-  </a>
-  
-</div>
-
-<br/><br/><br/><br/><br/><br/><br/><br/>
-
-
-
-
-<h2 align="center">My Projects</h2>
-
-Project Links    |My Repo Links          |Libraries and Technologies I use      |Project Preview   
-:---------------|----------------------|--------------------|------------------
-[Online Shopping Application](https://drive.google.com/file/d/1tFymWdto2vsigvvaFqqkjO9oBS_FhNTL/view) | <h3>[Repo (Collaborative)](https://github.com/mdhumairraza/Online-Shopping-Application)</h3> | Java Mysql Spring-boot Maven Lombok Hibernate Swagger Datajpa |![OSA](https://mdhumairraza.github.io/images/onlineShoppingApplication.png)
-[Human Resource Management System](https://drive.google.com/file/d/1CpmLX_mqh_4Z88M3Tddp_l5ayqL4S-BO/view)|<h3>[Repo (Solo)](https://github.com/mdhumairraza/Human-Resource-Management-Application)</h3>|Java JDBC MySQL STS Git & GitHub |![HRMS](https://mdhumairraza.github.io/images/hrms.png)
-[BestBuy](https://legendary-fairy-bc0edb.netlify.app/) | <h3>[Repo (Collaborative)](https://github.com/SumitUjjwal/obnoxious-ladybug-6279)</h3>|HTML CSS JavaScript RestAPI Postman JSON GIT|![BestBuy](https://mdhumairraza.github.io/images/bestbuy.png)
-[Urban Company](https://stately-duckanoo-80aef4.netlify.app/) | <h3>[Repo (Solo)](https://github.com/mdhumairraza/Urban-Company)</h3>|HTML CSS JavaScript DOM Git|![checkout](https://mdhumairraza.github.io/images/urbanCompany.png)
-
-<br>
-
-
-</p>
 <!-- <hr> -->
 
 <br />
